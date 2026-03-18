@@ -1,0 +1,56 @@
+.navbar {
+  height: 45px;
+  background:white;
+  border-bottom: 1px solid #ddd;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 18px;
+}
+
+.nav-left {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.logo {
+  font-size: 14px;
+  font-weight: 200;
+  cursor: pointer;
+}
+
+
+.logo:hover {
+  text-decoration: underline;
+  
+}
+.divider {
+  color: #888;
+  margin: 0 3px;
+}
+
+.page {
+  font-size: 14px;
+  color: #555;
+}
+
+.nav-right {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+}
+
+.icon {
+  cursor: pointer;
+  color: #444;
+}
+
+.signin-btn {
+  padding: 6px 14px;
+  border-radius: 18px;
+  border: 1px solid #ccc;
+  background: white;
+  cursor: pointer;
+  font-size: 13px;
+}
