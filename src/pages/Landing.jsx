@@ -1,6 +1,6 @@
 import { useNavigate } from "react-router-dom";
 import Login from "./Login";
-import Signup from "./SignUp";
+import Signup from "./Signup";
 import Profile from "./Profile";
 import "./Landing.css";
 
