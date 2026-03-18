@@ -3,7 +3,7 @@ import Navbar from "./components/Navbar";
 import Landing from "./pages/Landing"; // cards view
 import LandingScreen from "./pages/LandingScreen"; // full landing page
 import Login from "./pages/Login";
-import Signup from "./pages/SignUp";
+import Signup from "./pages/Signup";
 import Profile from "./pages/Profile";
 
 
